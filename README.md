@@ -1,5 +1,3 @@
-#Leia-me
-
 # Compressor de Imagens em Python
 
 Este programa permite **comprimir e redimensionar várias imagens automaticamente**, escolhendo:
