@@ -28,12 +28,12 @@ pip install pillow
 Antes de executar, organize assim:
 
 python_work/
-├── Novo compressor de imagens.py
+├── Novo_compressor_de_imagens.py
 ├── IMAGENS/
 │   ├── foto1.jpg
 │   ├── foto2.png
 │   └── ...
-└── Imagens_Comprimidas/   (criada automaticamente)
+└── Imagens_Comprimidas/   # criada automaticamente
 
 - **IMAGENS** → Coloque aqui todas as imagens originais  
 - **Imagens_Comprimidas** → O programa cria automaticamente e salva os resultados
