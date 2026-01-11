@@ -23,10 +23,11 @@ pip install pillow
 
 ---
 
-##  Estrutura de Pastas
+### 📁 Estrutura de Pastas
 
-Antes de executar, organize assim:
+Antes de executar, organize o projeto assim:
 
+```text
 python_work/
 ├── Novo_compressor_de_imagens.py
 ├── IMAGENS/
@@ -142,6 +143,5 @@ Uso livre para estudos e projetos pessoais.
 
 ## Autor
 
-Arthur Rocha Lima
 Script desenvolvido como compressor de imagens em lote usando Python + Pillow.
 
