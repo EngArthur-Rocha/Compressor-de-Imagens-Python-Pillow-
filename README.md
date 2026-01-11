@@ -141,5 +141,6 @@ Uso livre para estudos e projetos pessoais.
 
 ## Autor
 
-Script desenvolvido como compressor de imagens em lote usando Python + Pillow.
+
+Arthur Rocha Lima
 
